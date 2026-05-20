@@ -29,7 +29,6 @@
 
 ### 1. Клонируйте репозиторий
 
-git clone https://github.com/your-username/number-hunt.git
 ### 2. Установите зависимости
 npm install
 ### 3. Запустите сервер
